@@ -1,0 +1,6 @@
+langchain
+pymupdf
+markdown
+sentence-transformers
+pymilvus
+tqdm
